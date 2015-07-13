@@ -1,6 +1,6 @@
 ﻿namespace Lib.Operations
 {
-    internal interface IOperation
+    public interface IMathPiece
     {
     }
 }
